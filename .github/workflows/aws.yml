@@ -30,5 +30,6 @@ jobs:
         ECR_REPOSITORY: wantem-nginx
       run: |
         IMAGE_TAG=$(echo ${{ github.ref }} | sed -e "s#refs/tags/##g")
+        aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/o1f4z3e5
         docker build -t $ECR_REPOSITORY:$IMAGE_TAG .
         docker push $ECR_REPOSITORY:$IMAGE_TAG
