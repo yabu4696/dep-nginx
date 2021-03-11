@@ -106,6 +106,10 @@ color:#5e5e5e;
 footer{
     grid-area: footer;
     font-size: 11px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
 }
 
 footer > .container{
