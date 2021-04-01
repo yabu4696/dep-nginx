@@ -4,8 +4,11 @@
 <!--  created with free sitemap generation system www.sitemapxml.jp  --> 
 <url>
   <loc>https://wanto-item.com/</loc>
+  <priority>1.0</priority>
 </url>
 <url>
   <loc>https://wanto-item.com/category</loc>
+  <priority>0.8</priority>
 </url>
+
 </urlset>

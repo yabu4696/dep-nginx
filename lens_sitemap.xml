@@ -4,132 +4,175 @@
 <!--  created with free sitemap generation system www.sitemapxml.jp  --> 
 <url>
   <loc>https://lens.wanto-item.com/</loc>
+  <priority>1.0</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/maker_index</loc>
+  <priority>0.8</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/maker/sigma</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/maker/tamron</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/maker/canon</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/maker/nikon</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/maker/sony</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_14-24mm-f2-8-dg-dn</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_24-70mm-f2-8-dg-dn</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_28-70mm-f2-8-dg-dn</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_100-400mm-f5-6-3-dg-dn-os</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_150-600mm-f5-6-3-dg-os-hsm</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_16mm-f1-4-dc-dn</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_30mm-f1-4-dc-dn</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_70mm-f2-8-dg-macro</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_85mm-f1-4-dg-dn</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sigma_105mm-f2-8-dg-dn-macro</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/tamron_17-28mm-f2-8-di-3-rxd</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/tamron_17-70mm-f2-8-di-3-a-vc-rxd</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/tamron_28-75mm-f2-8-di-3-rxd</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/tamron_28-200mm-f2-8-5-6-di-3-rxd</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/tamron_70-180mm-f2-8-di-3-vxd</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/tamron_70-300mm-f4-5-6-3-di-3-rxd</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/canon_rf24-105mm-f4</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/canon_rf24-240mm-f4-6-3</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/canon_rf70-200mm-f2-8</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/canon_rf70-200mm-f4</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/canon_rf100-500mm-f4-5-7-1</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/nikon_nikkor-z-14-24mm-f2-8-s</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/nikon_nikkor-z-24-70mm-f2-8-s</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/nikon_nikkor-z-24-200mm-f4-6-3-vr</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/nikon_nikkor-z-70-200mm-f2-8-vr-s</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/nikon_nikkor-z-50mm-f1-2-s</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/nikon_af-s-nikkor-500mm-f5-6e-pd-ed-vr</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sony_fe-35mm-f1-4-gm</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sony_fe-200-600mm-f5-6-6-3-g-oss</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sony_fe-24-105mm-f4-g-oss</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sony_fe-20mm-f1-8-g</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sony_fe-100-400mm-f4-5-5-6-gm</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sony_fe-50mm-f1-2-gm</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sony_sonnar-t-fe-55mm-f1-8-za</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sony_fe-135mm-f1-8-gm</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://lens.wanto-item.com/item/sony_fe-24mm-f1-4-gm</loc>
+  <priority>0.6</priority>
 </url>
 
 </urlset>

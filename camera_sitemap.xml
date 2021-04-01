@@ -4,140 +4,187 @@
 <!--  created with free sitemap generation system www.sitemapxml.jp  --> 
 <url>
   <loc>https://camera.wanto-item.com/</loc>
+  <priority>1.0</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/maker_index</loc>
+  <priority>0.8</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/maker/canon</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/maker/nikon</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/maker/sony</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/maker/fujifilm</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/maker/olympus</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/maker/lumix</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/maker/pentax</loc>
+  <priority>0.7</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/canon_eos-r5</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/canon_eos-r6</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/canon_eos-r</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/canon_eos-rp</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/canon_eos-5d-mark4</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/canon_first-user</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/nikon_z7-2</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/nikon_z6-2</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/nikon_z50</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/nikon_d500</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/nikon_d780</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/nikon_d850</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/nikon_first-user</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/sony_a1</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/sony_a7-3</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/sony_a7s-3</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/sony_a7-c</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/sony_first-user</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/fujifilm_x-t4</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/fujifilm_x-s10</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/fujifilm_x-e4</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/fujifilm_x-a5</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/fujifilm_first-user</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/olympus_om-d-e-m1x</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/olympus_omd-e-m1-mark-ii</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/olympus_om-d-e-m5-mark-iii</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/olympus_om-d-e-m10mark-iii</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/olympus_first-user</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/lumix_dc-s5k</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/lumix_dc-g9</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/lumix_dc-gx7mk3</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/lumix_dc-df10w</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/lumix_first-user</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/pentax_k-1-mark-2</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/pentax_k-70</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/pentax_kp</loc>
+  <priority>0.6</priority>
 </url>
 <url>
   <loc>https://camera.wanto-item.com/item/pentax_first-user</loc>
+  <priority>0.6</priority>
 </url>
+
 </urlset>
