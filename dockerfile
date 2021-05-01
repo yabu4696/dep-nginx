@@ -1,5 +1,7 @@
 FROM nginx:1.18.0
 
+SHELL ["/bin/bash", "-c"]
+
 RUN rm /etc/nginx/conf.d/default.conf
 
 RUN apt-get install lua-devel git libxslt-devel libcurl-devel httpd-devel libxml2-devel openssl-devel zlib-devel GeoIP-devel gcc perl-ExtUtils-Embed pcre-devel
